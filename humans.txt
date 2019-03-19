@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Arjit -- Senior -- @arjit
 
 # THANKS
 
-    <name>
+    Arjit
 
 # TECHNOLOGY COLOPHON
 
