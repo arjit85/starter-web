@@ -12,4 +12,5 @@ Sample website with plenty of files for demos
 
 ##Copyright 
 
-2019Git.training 
+2019Git.training
+This is a new addition ot copyright.  
